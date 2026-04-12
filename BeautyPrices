@@ -1,0 +1,802 @@
+{
+  "nails": {
+    "acrylic": [
+      {
+        "label": "Acrylic — Short",
+        "price": 15000
+      },
+      {
+        "label": "Acrylic — Medium",
+        "price": 18000
+      },
+      {
+        "label": "Acrylic — Long",
+        "price": 22000
+      },
+      {
+        "label": "Acrylic — Extra Long",
+        "price": 27000
+      }
+    ],
+    "gel": [
+      {
+        "label": "Gel — Short",
+        "price": 12000
+      },
+      {
+        "label": "Gel — Medium",
+        "price": 15000
+      },
+      {
+        "label": "Gel — Long",
+        "price": 18000
+      },
+      {
+        "label": "Gel — Extra Long",
+        "price": 22000
+      }
+    ],
+    "dipgel": [
+      {
+        "label": "Dip Gel — Short",
+        "price": 13000
+      },
+      {
+        "label": "Dip Gel — Medium",
+        "price": 16000
+      },
+      {
+        "label": "Dip Gel — Long",
+        "price": 19000
+      }
+    ],
+    "addons": [
+      {
+        "label": "Nail Art (per nail)",
+        "full": 5000,
+        "half": 3000
+      },
+      {
+        "label": "3D Flowers",
+        "full": 8000,
+        "half": 5000
+      },
+      {
+        "label": "3D Lines",
+        "full": 6000,
+        "half": 3500
+      },
+      {
+        "label": "Chrome Powder",
+        "full": 5000,
+        "half": 3000
+      },
+      {
+        "label": "Ombré",
+        "full": 6000,
+        "half": 3500
+      },
+      {
+        "label": "Encapsulated (petals/glitter)",
+        "full": 8000,
+        "half": 5000
+      },
+      {
+        "label": "Hand Massage",
+        "full": 4000,
+        "half": 4000
+      },
+      {
+        "label": "Cuticle Treatment",
+        "full": 3000,
+        "half": 3000
+      }
+    ],
+    "toes": [
+      {
+        "label": "No Toe Service",
+        "price": 0
+      },
+      {
+        "label": "Classic Pedicure",
+        "price": 8000
+      },
+      {
+        "label": "Gel Pedicure",
+        "price": 10000
+      },
+      {
+        "label": "Acrylic Pedicure",
+        "price": 13000
+      }
+    ],
+    "removal": 2000
+  },
+  "spa": {
+    "services": [
+      {
+        "label": "Swedish Massage (60 min)",
+        "price": 18000
+      },
+      {
+        "label": "Swedish Massage (90 min)",
+        "price": 25000
+      },
+      {
+        "label": "Deep Tissue Massage (60 min)",
+        "price": 22000
+      },
+      {
+        "label": "Deep Tissue Massage (90 min)",
+        "price": 30000
+      },
+      {
+        "label": "Aromatherapy Massage (60 min)",
+        "price": 20000
+      },
+      {
+        "label": "Aromatherapy Massage (90 min)",
+        "price": 28000
+      },
+      {
+        "label": "Hot Stone Massage",
+        "price": 25000
+      },
+      {
+        "label": "Classic Facial",
+        "price": 15000
+      },
+      {
+        "label": "Brightening Facial",
+        "price": 20000
+      },
+      {
+        "label": "Gold Facial",
+        "price": 28000
+      },
+      {
+        "label": "Luxury Facial (LED)",
+        "price": 35000
+      },
+      {
+        "label": "Body Scrub",
+        "price": 15000
+      },
+      {
+        "label": "Body Wrap",
+        "price": 20000
+      },
+      {
+        "label": "Detox Treatment",
+        "price": 18000
+      },
+      {
+        "label": "Sauna Session",
+        "price": 10000
+      },
+      {
+        "label": "Pool & Hot Bath Access",
+        "price": 12000
+      }
+    ],
+    "packages": [
+      {
+        "label": "Solo Glow Escape",
+        "price": 65000,
+        "original": 82000
+      },
+      {
+        "label": "Couples Retreat",
+        "price": 115000,
+        "original": 145000
+      },
+      {
+        "label": "Bestie Bliss Day (per person)",
+        "price": 55000,
+        "original": 68000
+      }
+    ],
+    "poolThreshold": 50000
+  },
+  "lash": {
+    "types": [
+      {
+        "label": "Classic Lashes",
+        "price": 18000
+      },
+      {
+        "label": "Hybrid Lashes",
+        "price": 22000
+      },
+      {
+        "label": "Volume Lashes",
+        "price": 28000
+      },
+      {
+        "label": "Mega Volume Lashes",
+        "price": 35000
+      }
+    ],
+    "styles": [
+      {
+        "label": "Wispy Style",
+        "price": 3000
+      },
+      {
+        "label": "Cat Eye Style",
+        "price": 3000
+      },
+      {
+        "label": "Doll Eye Style",
+        "price": 3000
+      }
+    ],
+    "fills": [
+      {
+        "label": "Classic Fill (2–3 wks)",
+        "price": 10000
+      },
+      {
+        "label": "Hybrid Fill (2–3 wks)",
+        "price": 13000
+      },
+      {
+        "label": "Volume Fill (2–3 wks)",
+        "price": 16000
+      }
+    ],
+    "lift": [
+      {
+        "label": "Lash Lift Only",
+        "price": 18000
+      },
+      {
+        "label": "Lash Tint Only",
+        "price": 10000
+      },
+      {
+        "label": "Lift & Tint Combo",
+        "price": 25000
+      },
+      {
+        "label": "Classic Lash Removal",
+        "price": 4000
+      },
+      {
+        "label": "Hybrid Lash Removal",
+        "price": 4000
+      },
+      {
+        "label": "Volume Lash Removal",
+        "price": 5000
+      },
+      {
+        "label": "Mega Volume Lash Removal",
+        "price": 6500
+      }
+    ]
+  },
+  "mani": {
+    "manicureTypes": [
+      {
+        "label": "Classic Manicure",
+        "price": 6000
+      },
+      {
+        "label": "Gel Manicure",
+        "price": 9000
+      },
+      {
+        "label": "Acrylic Manicure",
+        "price": 13000
+      }
+    ],
+    "pedicureTypes": [
+      {
+        "label": "Classic Pedicure",
+        "price": 8000
+      },
+      {
+        "label": "Gel Pedicure",
+        "price": 11000
+      },
+      {
+        "label": "Spa Pedicure",
+        "price": 14000
+      },
+      {
+        "label": "Acrylic Pedicure",
+        "price": 15000
+      }
+    ],
+    "maniAddons": [
+      {
+        "label": "Nail Art (per nail)",
+        "price": 2000
+      },
+      {
+        "label": "Hand Massage",
+        "price": 3000
+      },
+      {
+        "label": "Cuticle Treatment",
+        "price": 2500
+      },
+      {
+        "label": "Paraffin Wax",
+        "price": 4000
+      }
+    ],
+    "pediAddons": [
+      {
+        "label": "Nail Art (toes)",
+        "price": 2000
+      },
+      {
+        "label": "Foot Massage",
+        "price": 3000
+      },
+      {
+        "label": "Callus Removal",
+        "price": 3500
+      },
+      {
+        "label": "Foot Scrub",
+        "price": 3000
+      }
+    ],
+    "combodiscount": 2000,
+    "removal": 2000
+  },
+  "wig": {
+    "types": [
+      {
+        "label": "Frontal Wig (no bleach)",
+        "price": 15000
+      },
+      {
+        "label": "Frontal Wig (with bleach)",
+        "price": 20000
+      },
+      {
+        "label": "Full Lace Wig Install",
+        "price": 22000
+      },
+      {
+        "label": "Closure Wig Install",
+        "price": 12000
+      },
+      {
+        "label": "V-Part / U-Part Wig",
+        "price": 10000
+      }
+    ],
+    "styles": [
+      {
+        "label": "Sleek Straight",
+        "price": 3000
+      },
+      {
+        "label": "Curls / Waves",
+        "price": 4000
+      },
+      {
+        "label": "Blow-dry & Set",
+        "price": 3500
+      },
+      {
+        "label": "Lace Tint",
+        "price": 5000
+      },
+      {
+        "label": "Knot Bleaching",
+        "price": 6000
+      }
+    ]
+  },
+  "braids": [
+    {
+      "label": "Knotless Braids — Small",
+      "price": 40000
+    },
+    {
+      "label": "Knotless Braids — Medium",
+      "price": 30000
+    },
+    {
+      "label": "Knotless Braids — Large",
+      "price": 22000
+    },
+    {
+      "label": "Box Braids — Small",
+      "price": 35000
+    },
+    {
+      "label": "Box Braids — Medium",
+      "price": 25000
+    },
+    {
+      "label": "Box Braids — Large",
+      "price": 18000
+    },
+    {
+      "label": "Cornrows (simple)",
+      "price": 10000
+    },
+    {
+      "label": "Cornrows with Extensions",
+      "price": 18000
+    },
+    {
+      "label": "Tribal / Pattern Cornrows",
+      "price": 25000
+    },
+    {
+      "label": "Senegalese Twists — Small",
+      "price": 38000
+    },
+    {
+      "label": "Senegalese Twists — Medium",
+      "price": 28000
+    },
+    {
+      "label": "Passion Twists",
+      "price": 25000
+    },
+    {
+      "label": "Goddess Braids",
+      "price": 20000
+    },
+    {
+      "label": "Fulani Braids",
+      "price": 22000
+    },
+    {
+      "label": "Lemonade Braids",
+      "price": 25000
+    }
+  ],
+  "makeup": {
+    "looks": [
+      {
+        "label": "No-Makeup Makeup",
+        "price": 15000
+      },
+      {
+        "label": "Natural Glam Makeup",
+        "price": 20000
+      },
+      {
+        "label": "Classic Glam Makeup",
+        "price": 28000
+      },
+      {
+        "label": "Full Glam Makeup",
+        "price": 35000
+      }
+    ],
+    "addons": [
+      {
+        "label": "Airbrush Finish",
+        "price": 5000
+      },
+      {
+        "label": "Cut Crease",
+        "price": 4000
+      },
+      {
+        "label": "Rhinestone Detail",
+        "price": 3500
+      },
+      {
+        "label": "Wig Styling Add-on",
+        "price": 5000
+      },
+      {
+        "label": "Setting / Touch-up Kit",
+        "price": 3000
+      }
+    ]
+  },
+  "piercing": {
+    "ear": [
+      {
+        "label": "Ear Lobe (Single)",
+        "price": 10000
+      },
+      {
+        "label": "Ear Lobe (Double / Both)",
+        "price": 15000
+      },
+      {
+        "label": "Helix",
+        "price": 15000
+      },
+      {
+        "label": "Flat / Conch",
+        "price": 15000
+      },
+      {
+        "label": "Industrial",
+        "price": 18000
+      },
+      {
+        "label": "Tragus / Anti-Tragus",
+        "price": 15000
+      },
+      {
+        "label": "Daith",
+        "price": 18000
+      },
+      {
+        "label": "Rook",
+        "price": 18000
+      }
+    ],
+    "face": [
+      {
+        "label": "Nostril (Single)",
+        "price": 12000
+      },
+      {
+        "label": "Septum",
+        "price": 15000
+      },
+      {
+        "label": "Eyebrow",
+        "price": 15000
+      },
+      {
+        "label": "Navel",
+        "price": 12000
+      }
+    ],
+    "materials": [
+      {
+        "label": "Titanium (standard)",
+        "upcharge": 0
+      },
+      {
+        "label": "Gold Plated",
+        "upcharge": 5000
+      },
+      {
+        "label": "Solid Gold",
+        "upcharge": 15000
+      },
+      {
+        "label": "Surgical Steel",
+        "upcharge": 0
+      }
+    ]
+  },
+  "waxing": [
+    {
+      "label": "Upper Lip",
+      "price": 3000
+    },
+    {
+      "label": "Chin",
+      "price": 3000
+    },
+    {
+      "label": "Full Face",
+      "price": 10000
+    },
+    {
+      "label": "Eyebrow Shaping",
+      "price": 4000
+    },
+    {
+      "label": "Underarm",
+      "price": 5000
+    },
+    {
+      "label": "Half Arm",
+      "price": 7000
+    },
+    {
+      "label": "Full Arm",
+      "price": 12000
+    },
+    {
+      "label": "Half Leg",
+      "price": 10000
+    },
+    {
+      "label": "Full Leg",
+      "price": 18000
+    },
+    {
+      "label": "Bikini Line",
+      "price": 10000
+    },
+    {
+      "label": "Brazilian",
+      "price": 18000
+    },
+    {
+      "label": "Hollywood",
+      "price": 22000
+    },
+    {
+      "label": "Stomach",
+      "price": 8000
+    },
+    {
+      "label": "Back (Full)",
+      "price": 15000
+    },
+    {
+      "label": "Chest",
+      "price": 10000
+    }
+  ],
+  "packages": {
+    "maintenance": {
+      "name": "SoFT Maintenance Day",
+      "tiers": [
+        {
+          "tier": "Starter",
+          "price": 47000,
+          "original": 59000
+        },
+        {
+          "tier": "Enhanced",
+          "price": 57000,
+          "original": 71000
+        },
+        {
+          "tier": "Glam",
+          "price": 70000,
+          "original": 87000
+        }
+      ]
+    },
+    "bridal": {
+      "name": "Bridal Glow",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 143500,
+          "original": 179500
+        }
+      ]
+    },
+    "lashnail": {
+      "name": "Lash & Nail Duo",
+      "tiers": [
+        {
+          "tier": "Classic",
+          "price": 27000,
+          "original": 34000
+        },
+        {
+          "tier": "Elevated",
+          "price": 34000,
+          "original": 43000
+        },
+        {
+          "tier": "Enhanced",
+          "price": 42000,
+          "original": 53000
+        }
+      ]
+    },
+    "spa": {
+      "name": "Spa Day Retreat",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 79000,
+          "original": 98500
+        }
+      ]
+    },
+    "queens": {
+      "name": "Queen's Evening",
+      "tiers": [
+        {
+          "tier": "Classic",
+          "price": 67000,
+          "original": 84000
+        },
+        {
+          "tier": "Elevated",
+          "price": 82000,
+          "original": 103000
+        }
+      ]
+    },
+    "braids": {
+      "name": "Braids & Beauty",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 69500,
+          "original": 87000
+        }
+      ]
+    },
+    "girlsday": {
+      "name": "The Glow Gang",
+      "tiers": [
+        {
+          "tier": "3 Girls",
+          "price": 189500,
+          "original": 237000
+        },
+        {
+          "tier": "4 Girls",
+          "price": 245000,
+          "original": 308000
+        },
+        {
+          "tier": "5 Girls",
+          "price": 295000,
+          "original": 369000
+        }
+      ]
+    },
+    "triospa": {
+      "name": "The Trio Ritual",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 194500,
+          "original": 243000
+        }
+      ]
+    },
+    "slaysession": {
+      "name": "The Slay Session",
+      "tiers": [
+        {
+          "tier": "Basic",
+          "price": 53000,
+          "original": 66000
+        },
+        {
+          "tier": "Standard",
+          "price": 60000,
+          "original": 75000
+        },
+        {
+          "tier": "Premium",
+          "price": 68000,
+          "original": 85000
+        }
+      ]
+    },
+    "loverritual": {
+      "name": "The Lovers' Ritual",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 142500,
+          "original": 178000
+        }
+      ]
+    },
+    "bdaybeat": {
+      "name": "The Birthday Beat",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 100000,
+          "original": 122000
+        }
+      ]
+    },
+    "newmum": {
+      "name": "The New Mum Glow",
+      "tiers": [
+        {
+          "tier": "Default",
+          "price": 65000,
+          "original": 80000
+        }
+      ]
+    }
+  }
+}
