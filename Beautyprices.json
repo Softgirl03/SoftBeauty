@@ -272,7 +272,7 @@
       },
       {
         "label": "Mega Volume Lash Removal",
-        "price": 6500
+        "price": 7000
       }
     ]
   },
@@ -397,7 +397,7 @@
   "braids": [
     {
       "label": "Knotless Braids — Small",
-      "price": 40000
+      "price": 15000
     },
     {
       "label": "Knotless Braids — Medium",
@@ -421,11 +421,11 @@
     },
     {
       "label": "Cornrows (simple)",
-      "price": 10000
+      "price": 8000
     },
     {
       "label": "Cornrows with Extensions",
-      "price": 18000
+      "price": 15000
     },
     {
       "label": "Tribal / Pattern Cornrows",
